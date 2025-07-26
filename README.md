@@ -141,7 +141,7 @@ This app can be deployed on:
 * [AWS EC2](https://aws.amazon.com/ec2/)
 
 **Live Link**:
-🔗 *\[Replace with your deployed app URL]*
+🔗 https://startup-revenue-insight-main.streamlit.app
 
 ---
 
